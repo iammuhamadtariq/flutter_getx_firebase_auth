@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "486334023842",
+    "project_id": "firebae-auth-getx",
+    "storage_bucket": "firebae-auth-getx.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:486334023842:android:6fe2d28ad146411070affb",
+        "android_client_info": {
+          "package_name": "com.example.getx_firebase_auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "486334023842-jf8uv6pdisdhmjvdqooa6m85gkr7jsqc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.getx_firebase_auth",
+            "certificate_hash": "2706f44fa53442c36505c4812143ba1901b94e0e"
+          }
+        },
+        {
+          "client_id": "486334023842-1g5l1v6vel6ad90na5ipvc34ik3tl29u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_g6B7F4M4T4U6ZeeyrVWpNaiP_jrr2lc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "486334023842-1g5l1v6vel6ad90na5ipvc34ik3tl29u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
